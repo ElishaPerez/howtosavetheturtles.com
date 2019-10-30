@@ -1,0 +1,30 @@
+.nav-bar {
+    background-color: aquamarine;
+    height: 88px;
+    width: 100%;
+    font-size: 25px;
+    margin-top: 0px;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
+.nav-list {
+    float: right;
+    margin-right: 40px;
+    border: black 3px;
+    border-style: double;
+}
+
+}
+.nav-list a:hover {
+    text-decoration: underline;
+    color: white;
+    font-size: 25px;
+}
+
+.list-item {
+    margin-right: 45px;
+    display: inline;
+    padding: 0px 0px;
+}
